@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/androidDevConference-InstantApp.iml" filepath="$PROJECT_DIR$/androidDevConference-InstantApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
       <module fileurl="file://$PROJECT_DIR$/instantapp/instantapp.iml" filepath="$PROJECT_DIR$/instantapp/instantapp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/instantpAppDevConference.iml" filepath="$PROJECT_DIR$/instantpAppDevConference.iml" />
       <module fileurl="file://$PROJECT_DIR$/welcomePage/welcomePage.iml" filepath="$PROJECT_DIR$/welcomePage/welcomePage.iml" />
     </modules>
   </component>
