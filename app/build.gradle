@@ -9,7 +9,7 @@ android {
         applicationId "hisao.com.br.instantpapp_devconference"
         minSdkVersion 23
         targetSdkVersion 26
-        versionCode 1
+        versionCode 3
         versionName "1.0"
 
 
